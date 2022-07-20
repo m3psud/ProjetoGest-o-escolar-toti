@@ -1,4 +1,4 @@
-# ProjetoGest-o-escolar-toti
+# ProjetoGestão-escolar-toti
 #PROJETO DE CRUD
 Desenvolver uma aplicação em **React** , integrada a uma **API REST** em Node e Express 
 que seja capaz de  de realizar as operações básicas  de um CRUD:
